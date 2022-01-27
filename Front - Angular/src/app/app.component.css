@@ -1,0 +1,102 @@
+section {
+  margin-left: 50px;
+  margin-right:  50px;
+  margin-bottom: 80px;
+}
+
+table {
+  width: 100%;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 30px;
+  color: #2e3236;
+}
+
+/*Estilos especificos del titulo*/
+.principal-title{
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+/*Estilos especificos de componentes de A Material*/
+.mat-header-row .mat-header-cell {
+  border-bottom: 1px solid transparent;
+  color: #b3b7ba;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.mat-footer-row .mat-footer-cell {
+  color: #2e3236;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+  padding-top: 25px;
+}
+
+/*Estilos de alineacion especificos para headers de la tabla*/
+.right-align-header {
+  text-align: right;
+}
+
+.center-align-header {
+  text-align: center;
+}
+
+/*Estilos especificos de las columnas x dato*/
+.payrollProvider-style {
+  font-weight: bold;
+  font-size: 12px;
+  color: #b3b7ba;
+}
+
+.worker-style {
+  color: #b3b7ba;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+.complianceScore-style {
+  font-weight: bold;
+  color: #b3b7ba;
+  border-right: 1px solid;
+  border-color: rgba(179,183,186,0.4);
+}
+
+.grossPay-style {
+  font-size: 28px;
+  font-weight: lighter;
+  color: #2e3236;
+  text-align: right;
+}
+
+.payrollAdmin-style {
+  font-weight: bold;
+  color: #b3b7ba;
+  text-align: center;
+}
+
+.labourCost-style {
+  font-size: 28px;
+  font-weight: lighter;
+  color: #b3b7ba;
+  text-align: right;
+}
+
+.workForce-style {
+  font-weight: bold;
+  color: #b3b7ba;
+  text-align: right;
+  border-left: 1px solid;
+  border-color: rgba(179,183,186,0.4);
+}
