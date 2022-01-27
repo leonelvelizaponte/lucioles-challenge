@@ -7,6 +7,12 @@ https://github.com/engagetech/frontend-coding-challenge
 > PD: No corrio el back en Java, asi que se realizó una API Dummy
 que retorna los mismos datos que se esperaban desde el back de Java
 
+## ✔️ Objetivos del challenge
+- La página completa debe representar con precisión las plantillas de diseño.
+- Al hacer clic en los encabezados de las columnas, los datos deben ordenarse de mayor a menor valor, o alfabéticamente, según corresponda.
+- Al ordenar por proveedor de nómina, los contratistas directos siempre deben aparecer como la primera entrada
+- Al ordenar por cualquier otra columna, los contratistas directos deben aparecer ordenados con las entradas del proveedor 
+    
 ## ⬆️ Highlights
 
 - Se utilizó Angular Material para los componentes de la tabla
